@@ -68,8 +68,8 @@ In real-world Go projects, remember to use short, descriptive package names! An 
 
 **Beginner to Intermediate:**
 
-- [Stephen Grider's Go: The Complete Developer's Guide (Udemy)](https://www.udemy.com/course/go-the-complete-developers-guide)
-- [Learn How To Code: Google's Go (golang) Programming Language by Todd McLeod)](https://www.udemy.com/course/learn-how-to-code)
+- [Go: The Complete Developer's Guide by Stephen Grider](https://www.udemy.com/course/go-the-complete-developers-guide)
+- [Learn How To Code: Google's Go (golang) Programming Language by Todd McLeod](https://www.udemy.com/course/learn-how-to-code)
 
 **Advanced:**
 
