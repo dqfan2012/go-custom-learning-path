@@ -45,7 +45,7 @@ This repository outlines the custom learning path I'm taking to master the Go pr
 
 While the core Go learning path is designed to be completed in approximately 12 months, this advanced stage includes **7 optional modules** that can further enhance your skills and take your Go proficiency to the next level. These modules cover topics such as code quality, CI/CD, security, service meshes, observability, infrastructure automation, and embedded systems, adding an estimated **7 additional months** to the learning journey.
 
-## **Why Two Repositories?**
+## **Why Two Stages?**
 
 This two-stage approach allows for a clear progression from fundamental concepts to more advanced topics. It also helps demonstrate how Go projects can evolve in complexity and structure as you gain experience.
 
