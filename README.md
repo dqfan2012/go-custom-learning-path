@@ -56,7 +56,7 @@ These repositories will contain my progress through the learning path. Please no
 - **Beginner to Intermediate:** [Go Basic](https://github.com/dqfan2012/go-basic)
 - **Advanced:** [Go Advanced](https://github.com/dqfan2012/go-advanced)
 
-**Note:** These repositories are public and open-source. To avoid exposing sensitive information, I've taken precautions to ensure no API keys, passwords, or other confidential data are included in the code. Additionally, any cloud deployments or infrastructure examples will utilize cost-effective options like DigitalOcean Kubernetes instead of potentially expensive alternatives like GCP or AWS.
+**Note:** These repositories are public and open-source. To avoid exposing sensitive information, I've taken precautions to ensure no API keys, passwords, or other confidential data are included in the code. Additionally, any cloud deployments or infrastructure examples will utilize placeholders and comments to demonstrate the concepts and will not function as-is. They serve as examples of how to write such code, and I've written corresponding unit tests to verify the code's logic and correctness. I've created fully functioning versions of these repositories, but they are private as they may contain sensitive deployment information.
 
 **Explore the links above to see my Go learning journey!**
 
