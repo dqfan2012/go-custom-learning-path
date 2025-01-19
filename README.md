@@ -49,16 +49,25 @@ While the core Go learning path is designed to be completed in approximately 12 
 
 This two-stage approach allows for a clear progression from fundamental concepts to more advanced topics. It also helps demonstrate how Go projects can evolve in complexity and structure as you gain experience.
 
-## **Package Naming Convention**
+## My Progress through the Learning Path
 
-You'll notice a unique package naming convention (`mXwY`, where X is the month and Y is the week) in both repositories. This non-idiomatic approach is **intentional** and serves two main purposes:
+These repositories will contain my progress through the learning path. Please note that they are currently empty or in early stages of development.
 
-*   **Educational Emphasis:** It reinforces the week-by-week learning structure.
-*   **Progression:** It visually highlights the incremental introduction of Go concepts.
+- **Beginner to Intermediate:** [Go Basic](https://github.com/dqfan2012/go-basic)
+- **Advanced:** [Go Advanced](https://github.com/dqfan2012/go-advanced)
 
-In real-world Go projects, remember to use short, descriptive package names! An excellent example of this is the `net/http` package in the Go standard library.
+**Note:** These repositories are public and open-source. To avoid exposing sensitive information, I've taken precautions to ensure no API keys, passwords, or other confidential data are included in the code. Additionally, any cloud deployments or infrastructure examples will utilize cost-effective options like DigitalOcean Kubernetes instead of potentially expensive alternatives like GCP or AWS.
 
 **Explore the links above to see my Go learning journey!**
+
+### **Package Naming Convention**
+
+You'll notice a unique package naming convention (`mXwY`, where X is the month and Y is the week) in both my repositories. This non-idiomatic approach is **intentional** and serves two main purposes:
+
+- **Educational Emphasis:** It reinforces the week-by-week learning structure.
+- **Progression:** It visually highlights the incremental introduction of Go concepts.
+
+In real-world Go projects, remember to use short, descriptive package names! An excellent example of this is the `net/http` package in the Go standard library.
 
 ## Additional Resources
 
