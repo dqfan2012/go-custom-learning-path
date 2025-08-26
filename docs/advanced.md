@@ -148,11 +148,6 @@ Each month focuses on a specific advanced topic, with weekly applications design
 - **Week 4:**  Set up dashboards and alerts for monitoring your Go applications.
     - **Stretch Goal:**  Use a monitoring tool (e.g., Grafana) to visualize metrics and logs.
 
-You're absolutely correct! I apologize for missing that detail.
-
-Here's the corrected version with the proper spacing (one space between the hyphen and the bolded text):
-Markdown
-
 ### Month 18: Infrastructure Automation with Terraform and Helm
 
 - **Week 1:** Introduce Infrastructure as Code (IaC) concepts and the benefits of using Terraform.
